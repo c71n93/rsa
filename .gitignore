@@ -1,0 +1,6 @@
+# CMake build files
+build
+
+# ide stuff
+.idea
+cmake-build-debug
